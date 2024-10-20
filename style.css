@@ -12,7 +12,7 @@ body{
     margin: 0 auto;
 }
 span{
-    color: rgb(154, 174, 41);
+    color: rgb(255, 251, 0);
 }
 .wrapper{
     height: 650px;
@@ -77,6 +77,13 @@ button{
 .icon i{
     font-size: 35px;
     color: #898989;
+    text-shadow: none;
+    transform: rotate(20deg);
+    opacity: 50%;
+}
+.icon2 i{
+    font-size: 35px;
+    color: #dddcdc;
     text-shadow: none;
     transform: rotate(20deg);
     opacity: 50%;
